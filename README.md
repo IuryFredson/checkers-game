@@ -34,5 +34,4 @@ Este é um jogo simples de damas escrito em Rust.
 ## Future Enhancements / Melhorias Futuras
 
 - Add a graphical interface / Adicionar interface gráfica.
-- Implement additional rules like mandatory captures / Implementar regras adicionais como capturas obrigatórias.
 - Implement online multiplayer functionality / Implementar funcionalidade de multiplayer online.
